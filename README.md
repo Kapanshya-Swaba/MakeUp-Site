@@ -1,2 +1,2 @@
 # MakeUp-Site
-A simple Website site
+Improvements will be added in the coming weeks
